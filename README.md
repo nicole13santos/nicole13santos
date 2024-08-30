@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil
 
-Meu nome é Nicole Santos
+Meu nome é Nicole Oliveira Santos
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
